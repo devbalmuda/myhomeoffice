@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: 여수 홈오피스 예약관련 문의
-image: /img/blogmainpageresize.jpg
+image: /img/mainpage.jpg
 heading: 여수 신성오피스텔
 subheading: 여수 오션뷰 오피스텔 단기 임대환영
 mainpitch:
