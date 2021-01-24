@@ -6,7 +6,12 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass',
+    {
+      resolve: 'gatsby-plugin-sass',
+      options: {
+          indentedSyntax: true
+      },
+    },  
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
@@ -73,5 +78,15 @@ module.exports = {
       },
     }, // must be after other CSS plugins
     'gatsby-plugin-netlify', // make sure to keep it last in the array
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `Do Hyeon\:300,400,700`,
+          `Black Han Sans\:300,400,400i,700` // you can also specify font weights and styles
+        ],
+        display: 'swap'
+      },
+    },
   ],
 }
