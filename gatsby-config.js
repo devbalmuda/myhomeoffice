@@ -71,6 +71,18 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-google-fonts-v2`,
+      options: {
+        fonts: [
+          {
+            family: 'do hyeon',
+            variable: true,
+            weights: ['200..900']
+          }
+        ]
+      }
+    },
+    {
       resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
       options: {
         develop: true, // Activates purging in npm run develop
@@ -78,15 +90,5 @@ module.exports = {
       },
     }, // must be after other CSS plugins
     'gatsby-plugin-netlify', // make sure to keep it last in the array
-    {
-      resolve: `gatsby-plugin-google-fonts`,
-      options: {
-        fonts: [
-          `Do Hyeon\:300,400,700`,
-          `Black Han Sans\:300,400,400i,700` // you can also specify font weights and styles
-        ],
-        display: 'swap'
-      },
-    },
   ],
 }
