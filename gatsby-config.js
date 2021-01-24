@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: '여수 신성오피스텔 임대문의',
+    title: '여수 홈오피스',
     description:
       '여수 신성오피스텔 오션뷰 임대문의 관련 홈페이지입니다. 공식홈페이지가 아니라 개인이 운영하는 페이지입니다.',
   },

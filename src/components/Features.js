@@ -17,7 +17,9 @@ const FeatureGrid = ({ gridItems }) => (
               <PreviewCompatibleImage imageInfo={item} />
             </div>
           </div>
-          <p>{item.text}</p>
+          {/*<p>{item.text}</p>*/}
+          <br />
+          <div className="has-text-centered">{item.text}</div>
         </section>
       </div>
     ))}
