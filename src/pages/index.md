@@ -2,12 +2,13 @@
 templateKey: index-page
 title: 여수 홈오피스 예약관련 문의
 image: /img/mainpage.jpg
-heading: 여수 신성오피스텔
+heading: 오피스텔에 갖춘 물품들
 subheading: 여수 오션뷰 오피스텔 단기 임대환영
 mainpitch:
   title: 해당 홈페이지에 관해서
-  description: "이 홈페이지는 임대하려는 오피스텔의 사진공개와 임대관련 문의를 주는 홈페이지 입니다. 관련 문의는
-    dev.balmuda@gmail.com 이나 인스타그램 DM으로 주시길 바랍니다. "
+  description: |-
+    이 홈페이지는 임대하려는 오피스텔의 사진공개와 임대관련 문의를 주는 홈페이지 입니다. 
+    관련 문의는 dev.balmuda@gmail.com 이나 인스타그램 DM으로 주시길 바랍니다. 
 description: 해당 오피스텔은 하기와 같은 물품들이 구비되어 있습니다.
 intro:
   blurbs:
