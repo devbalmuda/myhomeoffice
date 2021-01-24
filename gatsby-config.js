@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: '여수 신성오피스텔 임대문의',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      '여수 신성오피스텔 오션뷰 임대문의 관련 홈페이지입니다. 공식홈페이지가 아니라 개인이 운영하는 페이지입니다.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
