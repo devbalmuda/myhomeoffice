@@ -3,22 +3,18 @@ templateKey: about-page
 path: /about
 title: 해당 오피스텔 관련 사항
 ---
-### Shade-grown coffee
+### 풀-옵션 빌트인 시스템 제
 
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+빌트인콤비냉장고, 빌트인드럼세탁기, 천정형 시스템 에어컨, 2구 인덕션 등 풀옵션 빌트인 시스템이 제공됩니다.
 
-### Single origin
 
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
 
-### Sustainable farming
+### 다양한 수납공간 및 붙박이장 제
 
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+세대 내 다양한 수납공간이 설계되어 있어 공간 활용의 효율이 높으며 별도의 붙박이장이 제공되어 편리하게 이용할 수 있습니다. 
 
-### Direct sourcing
 
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
 
-### Reinvest profits
+### 최신 타일에 맞춘 최고급 마감재 사
 
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+입주자의 스타일을 고려한 최고급 마감재 시공으로 공간의 품격을 높이고 밝고 화사한 컬러 믹스를 통해 개방감을 높여줍니다.
